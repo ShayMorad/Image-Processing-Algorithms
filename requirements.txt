@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+opencv-python
+mediapy
+pandas
+plotly
+kaleido
